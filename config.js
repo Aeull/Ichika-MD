@@ -25,10 +25,10 @@ global.APIKeys = {
 }
 
 // KALO MAU RECODE TINGGALIN CREDIT DEVELOPER YA, JGN CUMA NUMPANG NAMA
-global.owner = ['17608914335']
-global.premium = ['17608914335']
-global.packname = 'Ichika-MD'
-global.author = 'Recode By Papah-Chan\n\n\ntemukan Ichika-MD di\nYoutube bit.ly/Papah-Chan'
+global.owner = ['6285822347348']
+global.premium = ['6285822347348']
+global.packname = 'ArullBotz-MD'
+global.author = 'By Arull'
 global.sessionName = 'session.data'
 global.prefa = ['','!','.','k','#']
 global.sp = '⭔'
@@ -46,17 +46,14 @@ global.mess = {
      donasi: `-- *PEMBAYARAN* --
     
 *Tersedia Metode Pembayaran :*
-- Pulsa TELKOMSEL
-- OVO
+- Pulsa INDOSAT
 - Dana
-- GoPay
 
 *Transfer Tujuan Ke :*
-[ 082287219167 ]
+[ 085822347348 ]
 
 Lebih Lanjut, kamu bisa chat owner :
-wa.me/6281268416245
-wa.me/17608914335
+wa.me/6285822347348
 
 Melayani Fast Respon Jika ada waktu,
 Usahakan utk tdk memberi harapan palsu.
@@ -84,25 +81,15 @@ Karena...
 - Tidak Mendapat Informasi apa" semisal bot non-aktif/perbaikan
 - Rawan diBlock/Banned oleh bot.
     `,  
-jasarun: `-- JASA RUN RDP --*
-    
-*Kelebihan RDP :*
-- Kecepatan Internet Cepat
-- Bot Fast Respon
-- Online 24 Jam Nonstop
-- Dipantau Oleh Owner
 
-*Kekurangan RDP :*
-- Tdk Bisa Scan Kode QR 
+*Open Jasa Run Bot*
+Syarat:
+-Punya 2 Nomor
+-Usahakan ada 2 Hp Buat Scan QR
 
 *Bagi Pengguna MD:*
 - Jika Terkadang Bot Tidak Merespon Kemungkinan Disebabkan Oleh Delay Dari Sesi MD
 - Boleh Mematikan Data Jika Kamu Pengguna MD
-
-*Bagi Pengguna Non MD:*
-- Usahakan Untuk Tidak Terlalu Banyak Grup Agar Tidak Delay
-- Data Harus On 24 Jam
-- Jaringan Mu Harus Fast
 
 *Langkah yang harus diikuti :*
 - Sediakan SC serta session wa web bot mu
@@ -112,8 +99,8 @@ jasarun: `-- JASA RUN RDP --*
 - Otoritas Repo Akun GitHub mu
 
 Biaya = 
-~20K~ 15K Berlaku 1 Bulan
-~10K~ 5K Berlaku 1 Minggu
+~30 Berlaku Sampai Owner Pensi Ngebot
+~10k Berlaku 3 Minggu
 Testing? 2 Jam
 
 Apabila ada kendala, hubungi owner,
